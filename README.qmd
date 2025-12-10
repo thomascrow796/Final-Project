@@ -5,4 +5,7 @@ format: gfm
 
 ## Project Overview
 
-File reads excel data pulled from Kaggle, and cleans it. Then creates vizualizations for analysis.
+This Python file reads Excel data pulled from Kaggle and cleans it. The file focuses mainly on data about production and consumption, along 
+with GDP from countries. In total, around 80 countries were pulled, which were subsequently grouped by GDP. Then charts were
+generated of the share of energy production by source for each country, global oil production since 1900, and renewable energy
+consumption among the largest economies in the world.
