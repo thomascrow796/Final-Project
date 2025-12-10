@@ -1,0 +1,8 @@
+---
+title: "Global Energy Analysis"
+format: gfm 
+---
+
+## Project Overview
+
+File reads excel data pulled from Kaggle, and cleans it. Then creates vizualizations for analysis.
